@@ -15,18 +15,18 @@ Este projeto vai ser desenvolvido ao longo do semestre que tem por base project 
 **Descrição:** \
 O proprietário insere na aplicação os bens alimentares que pretende disponibilizar.
 
-**Pré-condições:** \
+**Pré-condições:** 
 - Ter feito o registro na aplicação.
 - Estar Logado.
 - Aceder ao menu para disponibilizar produto
 
-**Passo a passo:** \
+**Passo a passo:** 
 1. O utilizador preenche a aplicação com o tipo de produto disponibilizado
 2. Insere o produto na aplicação
 3. Recebe confirmação que o produto foi disponibilizado
 4. A aplicação envia informação à associação de que foi disponibilizado um produto em determinado local
 
-**Pós-condições:** \
+**Pós-condições:** 
 * O produto é disponibilizado
 * A associação recebe notificação que houve um produto disponibilizado.
 
@@ -34,10 +34,10 @@ O proprietário insere na aplicação os bens alimentares que pretende disponibi
 **Descrição:** \
 A empresa recebe a notificação que o produto foi inserido e que empresa o inseriu
 
-**Pré-condições:** \
+**Pré-condições:** 
 * notificações ativas
 
-**Passo a passo:** \
+**Passo a passo:** 
 1. A associação acede à plataforma
 2. Acede ao menu de produtos disponibilizados
 3. Verifica que tem um novo produto disponibilizado porque aparece um novo produto com destaque de uma outra cor
@@ -46,16 +46,16 @@ A empresa recebe a notificação que o produto foi inserido e que empresa o inse
 **Descrição:** \
 A empresa informa que se vai deslocar para recolher os bens
 
-**Pré-condições:** \
+**Pré-condições:** 
 - Estar logado
 
-**Passo a passo:** \
+**Passo a passo:** 
 1. A associação acede à plataforma no menu de produtos disponibilizados
 2. Carrega sobre um produto e escolhe a opção de recolha
 3. A plataforma informa a empresa que disponibilizou os produtos que a associação vai recolher-los.
 4. A empresa que disponibilizou os produtos pode verificar essa notificação no menu de produtos disponibilizados.
 
-**Pós-condições:** \
+**Pós-condições:** 
 - A plataforma registra que os bens vão ser recolhidos
 - A empresa que disponibilizou os produtos pode verificar que a associação vai recolher os produtos no menu de produtos disponibilizados aparecendo esses com uma cor diferente.
 
