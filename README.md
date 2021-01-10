@@ -61,3 +61,5 @@ A empresa informa que se vai deslocar para recolher os bens
 
 ## Referências:
 (substituir todo o texto pelo vosso) Usar a norma APA. Para o caso de sites podem usar: [1] Autor, A.A. (2000). Título do documento. Acedido em: dia, mês, ano, em: URL. (Ano/autor podem ser removidos se não fizerem sentido para o site, o resto é obrigatório)
+Juntos contra o desperdício alimentar. (n.d.). Retrieved from https://toogoodtogo.pt/pt
+
